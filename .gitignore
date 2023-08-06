@@ -1,0 +1,15 @@
+.idea
+/node_modules
+/public/hot
+/public/css
+/public/js
+/public/storage
+/public/fonts
+/storage/*.key
+/vendor
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+composer.lock
+
